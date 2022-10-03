@@ -16,7 +16,6 @@ The page was made as exercise for layout skills
 - Сross browser compatibility
 ## Demo
 
-Click the link to see the page https://april-thunder.github.io/Creative_Technologist/
-
+Click the link to see the page https://april-thunder.github.io/Cloud_Budget/
 
 
