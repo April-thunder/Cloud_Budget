@@ -15,12 +15,10 @@ The page was made as exercise for layout skills
 - The page is adaptive from deskop to the iPhone 4
 - Сross browser compatibility
 ## Demo
-
-Click the link to see the page https://april-thunder.github.io/Creative_Technologist/
+Click the link to see the page https://april-thunder.github.io/Cloud_Budget/
 
 ## To Do
 
 - To finish mobile menu design
-
 
 
