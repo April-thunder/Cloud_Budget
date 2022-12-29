@@ -8,7 +8,6 @@ The page was made as exercise for layout skills
 - JS (Mobile menu)
 - HTML
 - CSS (Flexbox Layout)
-- BEM Methodology
 
 ## Notes
 
